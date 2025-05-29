@@ -50,7 +50,7 @@ export default async function RootLayout({
     return (
       <html lang="en">
         <body>
-          <h1>Something went wrong</h1>
+          <h1>Something went wrong.Please try after a while.</h1>
         </body>
       </html>
     );
